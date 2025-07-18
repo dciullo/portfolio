@@ -1,0 +1,9 @@
+💬 Descrizione del progetto – Gestore di Password in Python
+Questo è un esempio pratico di gestore di password sviluppato in Python.
+Il programma permette di salvare e recuperare password in modo sicuro, usando la crittografia.
+
+⚙️ Come funziona:
+Per eseguire il programma è necessario installare Python (ultima versione dal sito ufficiale).
+
+Una volta installato Python, apri il prompt dei comandi e scrivi:
+pip install cryptography

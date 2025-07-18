@@ -1,0 +1,5 @@
+💬 Descrizione del progetto – File Excel per preventivi
+Il file mostrato è un esempio di file Excel utilizzato per facilitare la creazione di preventivi.
+In questo caso, mi sono messo nei panni di una vetreria per simulare un caso d’uso reale.
+
+Posso creare anche file personalizzati per la gestione dei costi, adattati alle esigenze del cliente.
