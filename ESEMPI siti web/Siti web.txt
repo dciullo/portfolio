@@ -1,0 +1,4 @@
+Come aprire uno dei siti (esempi)
+Scaricare il codice e salvare con estensione html.
+Successivamente aprire il sito.
+Per visualizzare quello sull'adozione di animali bisognerà scaricare anche l'immagine
